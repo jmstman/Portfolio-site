@@ -366,7 +366,7 @@ form {
 }
 
 a.project_links {
-  color: var(contact-link-color);
+  color: var(--contact-link-color);
 }
 
 a:hover, a:focus.project_links  {

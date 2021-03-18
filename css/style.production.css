@@ -282,7 +282,9 @@ button:focus,
     text-align: center;
 }
 
-
+.berlin-illustration {
+  max-width: 100%;
+}
 
 /* --------------------------------Contact page----------------------------------------- */
 form {
